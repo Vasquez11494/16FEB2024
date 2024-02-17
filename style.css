@@ -1,0 +1,67 @@
+
+body{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(24, 24, 25), rgb(92, 91, 91), rgb(255, 255, 255));
+    background-size: 400% 400%;
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+}
+
+#titulo{
+    margin-top: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 40px;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    border: solid;
+    border-color:rgb(255, 255, 255) ;
+    size: 5mm;
+    height: 2cm;
+}
+
+
+#div1{
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: white;
+    width: 40%;
+    margin-left: 5%;
+    border: solid;
+    border-color: aliceblue;
+}
+
+#div2{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: white;
+    width: 40%;
+    margin-left: 55%;
+    margin-top: -43.5%;
+    border: solid;
+    border-color: aliceblue;
+}
+
+.subtitulo{
+    background-color: rgb(67, 65, 65);
+    
+}
+
+.final{
+    color: white;
+}
+
+#nombre{
+    margin-top: 1%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;   
+    border: solid;
+    color: aliceblue;
+    width: 20%;
+    height: 3%;
+    margin-left: 40%;
+}
